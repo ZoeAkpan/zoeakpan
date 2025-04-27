@@ -7,8 +7,6 @@
 
 - My Pronouns: She/Her   
 
-- 📫 How to reach me: (www.linkedin.com/in/zoeakpan)
-
 - Fun fact: I have a Letterboxd I'm insufferable about. You should follow me: @zoeakpan!
 
 
