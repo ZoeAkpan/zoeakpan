@@ -5,7 +5,11 @@
 ### **About me:**
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- My Pronouns: She/Her   
+- My Pronouns: She/Her
+
+- 💻 skills: Python, Java, TypeScript, SQL
+
+- ⚙️ Developer Tools: VS Code, IntelliJ, AWS, Git, Microsoft Azure
 
 - Fun fact: I have a Letterboxd I'm insufferable about. You should follow me: @zoeakpan!
 
