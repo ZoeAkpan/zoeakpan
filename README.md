@@ -6,11 +6,9 @@
 
 - 😄 My Pronouns: She/Her   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 📫 How to reach me: (www.linkedin.com/in/zoeakpan)
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- ⚡ Fun fact: I have a Letterboxd I'm absolutely insufferable about. 
 
 
 
