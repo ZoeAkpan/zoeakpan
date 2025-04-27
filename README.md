@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: (www.linkedin.com/in/zoeakpan)
 
-- Fun fact: I have a Letterboxd I'm insufferable about. 
+- Fun fact: I have a Letterboxd I'm insufferable about. You should follow me...https://letterboxd.com/zoeakpan/
 
 
 
