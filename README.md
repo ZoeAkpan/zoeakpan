@@ -7,7 +7,7 @@
 
 - My Pronouns: She/Her
 
-- 💻 skills: Python, Java, TypeScript, SQL
+- 💻 Skills: Python, Java, TypeScript, SQL
 
 - ⚙️ Developer Tools: VS Code, IntelliJ, AWS, Git, Microsoft Azure
 
