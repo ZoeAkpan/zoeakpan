@@ -5,7 +5,7 @@
 ### **About me:**
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- My Pronouns: She/Her
+- My Pronouns: She/Her/Hers
 
 - 💻 Skills: Python, Java, TypeScript, SQL
 
